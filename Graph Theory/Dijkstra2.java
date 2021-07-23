@@ -1,5 +1,3 @@
-package DMOJ;
-
 import java.util.*;
 import java.io.*;
 //Use this if n^2 is approximately equal to the number of edges
